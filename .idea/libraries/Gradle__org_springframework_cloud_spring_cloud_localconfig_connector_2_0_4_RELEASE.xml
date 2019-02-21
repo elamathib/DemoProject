@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-localconfig-connector:2.0.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-localconfig-connector/2.0.4.RELEASE/b981479ec59c1938d4b0e69d5cca5b8c88940776/spring-cloud-localconfig-connector-2.0.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-localconfig-connector/2.0.4.RELEASE/67fd828fdcbae5802eb8dc31a1ffd2f945ff6081/spring-cloud-localconfig-connector-2.0.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

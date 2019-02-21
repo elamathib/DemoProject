@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-open-service-broker-autoconfigure:2.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-open-service-broker-autoconfigure/2.1.0.RELEASE/ae6d31724d7589f57ffde35e42e85a855d65a86c/spring-cloud-open-service-broker-autoconfigure-2.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-open-service-broker-autoconfigure/2.1.0.RELEASE/2dbea3d590b2284f812f6aeb8cd5487d6f6cc596/spring-cloud-open-service-broker-autoconfigure-2.1.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-open-service-broker-core:2.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-open-service-broker-core/2.1.0.RELEASE/c00bb9328dfaa861247cebc0401dc847baa965de/spring-cloud-open-service-broker-core-2.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-open-service-broker-core/2.1.0.RELEASE/d196a49beaff3e350ad66b40917339b85cbb68b7/spring-cloud-open-service-broker-core-2.1.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
